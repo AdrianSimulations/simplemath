@@ -1,3 +1,3 @@
 # simplemath
-A game.
-Find it at simplemath.math.com
+Gaming Site!
+Find it at [(https://adriansimulations.github.io/simplemath/)](https://adriansimulations.github.io/simplemath/).
